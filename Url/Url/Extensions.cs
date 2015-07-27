@@ -10,6 +10,10 @@ namespace Url
 {
     public static class Extensions
     {
+        /// <summary>
+        /// Returns the querystring section of the uri from this UriBuilder in the form of a NameValueCollection.
+        /// </summary>
+        /// <returns>A NameValueCollection containing the keys and values from the querystring</returns>
         public static NameValueCollection ParseQuery(this UriBuilder thisUriBuilder)
         {
             return HttpUtility.ParseQueryString(thisUriBuilder.Query);
