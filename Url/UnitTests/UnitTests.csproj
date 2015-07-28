@@ -52,11 +52,12 @@
   <ItemGroup>
     <Compile Include="ExtensionTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UrlTests.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Url\Url.csproj">
+    <ProjectReference Include="..\Url\UrlUtilities.csproj">
       <Project>{b7a12ae5-a105-4654-90ce-f77c958f0183}</Project>
-      <Name>Url</Name>
+      <Name>UrlUtilities</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

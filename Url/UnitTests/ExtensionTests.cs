@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Specialized;
-using Url;
+using UrlUtilities;
 
 namespace UnitTests
 {

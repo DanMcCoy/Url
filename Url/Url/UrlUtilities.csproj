@@ -7,8 +7,8 @@
     <ProjectGuid>{B7A12AE5-A105-4654-90CE-F77C958F0183}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Url</RootNamespace>
-    <AssemblyName>Url</AssemblyName>
+    <RootNamespace>UrlUtilities</RootNamespace>
+    <AssemblyName>UrlUtilities</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

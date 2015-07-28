@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Url", "Url\Url.csproj", "{B7A12AE5-A105-4654-90CE-F77C958F0183}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlUtilities", "Url\UrlUtilities.csproj", "{B7A12AE5-A105-4654-90CE-F77C958F0183}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{A5599433-9D0C-4232-BA84-D7F5E3A24C14}"
 EndProject
